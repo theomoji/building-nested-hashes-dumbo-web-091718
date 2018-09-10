@@ -7,10 +7,14 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
         "Benvolio" => {
-
+          :name
+          :age
+          :attitude
         },
         "Mercutio" => {
-
+          :name
+          :age
+          :attitude
         }
       ]
    },
