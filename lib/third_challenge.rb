@@ -14,6 +14,9 @@ def third_challenge
         },
       :hero => {
         #your key/value pairs here
+        :name => "Romeo",
+        :age => "15",
+        :status => "alive"
         },
       :hero_friends => []
    },
@@ -34,13 +37,8 @@ def third_challenge
 
 end
 
-The Montague :matriarch has
-a :name of "Lady Montague" and
-an :age of "54".
-The Montague :hero has
-a :name of "Romeo",
-an :age of "15", and
-a :status of "alive".
+
+
 The Capulet :patriarch has
 a :name of "Lord Capulet" and
 an :age of "50".
