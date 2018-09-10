@@ -23,6 +23,8 @@ def third_challenge
    :capulet => {
       :patriarch => {
         #your key/value pairs here
+        :name => "Lord Capulet",
+        :age => "50"
         },
       :matriarch => {
         #your key/value pairs here
@@ -37,11 +39,6 @@ def third_challenge
 
 end
 
-
-
-The Capulet :patriarch has
-a :name of "Lord Capulet" and
-an :age of "50".
 The Capulet :matriarch has
 a :name of "Lady Capulet" and
 an :age of "51".
