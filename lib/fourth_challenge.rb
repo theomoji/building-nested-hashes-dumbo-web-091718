@@ -7,9 +7,9 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
         "Benvolio" => {
-          :name
-          :age
-          :attitude
+          :name => "Benvolio",
+          :age => "17",
+          :attitude => "worried"
         },
         "Mercutio" => {
           :name
@@ -32,9 +32,3 @@ def fourth_challenge
 
 
 end
-
-The hero's two friends are Benvolio and Mercutio. So, the :hero_friends array will contain two hashes. Each of these two hashes have the following three keys:
-
-:name
-:age
-:attitude
